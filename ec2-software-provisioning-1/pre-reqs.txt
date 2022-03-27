@@ -6,7 +6,7 @@
 
 #Allow SSH - Just for deployment
 
-2. Allow SSH (21) access in the default security group (AWS console)
+2. Allow SSH (22) access in the default security group (AWS console)
 
 #Allow HTTP - Just for lab
 
