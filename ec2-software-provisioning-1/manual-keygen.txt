@@ -1,5 +1,0 @@
-#Generating key from linux terminal
-
-1. Run inside the project directory (/ec2-software-provisioning-1) 
-
-~ ssh-keygen -f sshkey
