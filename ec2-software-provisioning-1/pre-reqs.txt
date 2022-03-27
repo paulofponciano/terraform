@@ -1,0 +1,13 @@
+#Generating key from linux terminal
+
+1. Run inside the project directory (/ec2-software-provisioning-1) - Be careful of the private key
+
+~ ssh-keygen -f sshkey
+
+#Allow SSH - Just for deployment
+
+2. Allow SSH (21) access in the default security group (AWS console)
+
+#Allow HTTP - Just for lab
+
+3. Allow HTTP (80) access in the default security group (AWS console)
