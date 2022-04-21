@@ -1,0 +1,10 @@
+#Generating key from linux terminal
+
+1. Run inside the project directory (/ec2-default-windows) - Be careful of the private key
+
+~ ssh-keygen -f mykey
+
+#Allow WinRM - Just for deployment
+
+2. Allow WinRM (5985, 5986) access in the default security group (AWS console)
+
