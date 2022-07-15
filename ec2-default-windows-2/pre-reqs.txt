@@ -1,7 +1,0 @@
-#Generating key from linux terminal
-
-1. Run inside the project directory (/ec2-default-windows-2) - Be careful of the private key
-
-~ ssh-keygen -f mykey
-
-
